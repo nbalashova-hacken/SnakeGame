@@ -4,7 +4,6 @@ extern crate rand;
 mod draw;
 mod snake;
 mod game;
-mod guessing_game;
 
 
 
